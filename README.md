@@ -12,7 +12,7 @@ This portfolio highlights my expertise in building dynamic, user-centric web app
 ---
 
 ## 👨‍💻 About Me
-I’m a dedicated Web Developer with a BCA degree and a strong foundation in **frontend** and **backend** development. I’m passionate about crafting robust, scalable, and responsive web applications. My approach is rooted in producing efficient solutions and continuously enhancing my skill set to stay current in the fast-evolving tech landscape.
+I’m a dedicated Web Developer with a BCA degree and a strong foundation in **frontend** development. I’m passionate about crafting robust, scalable, and responsive web applications. My approach is rooted in producing efficient solutions and continuously enhancing my skill set to stay current in the fast-evolving tech landscape.
 
 ---
 
